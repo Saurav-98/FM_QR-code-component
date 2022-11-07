@@ -1,0 +1,32 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+  padding: 5.6rem 1.74rem;
+  font-size: 15px;
+
+  /* Font - Outfit */
+  font-family: 'Outfit', sans-serif;
+}
+
+.card-container {
+  padding: 1rem;
+  border-radius: 1.34rem;
+  background-color: #fff;
+  text-align: center;
+}
+
+.card-container img {
+  max-width: 100%;
+  border-radius: 0.67rem;
+}
+.card-container h2 {
+  font-size: 2em;
+  line-height: 1.2;
+  letter-spacing: 1px;
+  color: hsl(218, 44%, 22%);
+}
+.card-container p {
+  font-size: 1.3em;
+  width: 82%;
+  margin: 0 auto 2.6rem;
+  color: hsl(220, 15%, 55%);
+}
